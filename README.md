@@ -1,6 +1,6 @@
 <!--**PanNinan/PanNinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20🎉%20Welcome%20to%20PanNinan's%20Github%20Homepage!%20👋&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20🎉%20Welcome%20to%20PanNinan's%20Github%20Homepage!%20%20%20%20%20%20&font=Roboto" />
 
 - 🔭 I’m currently working on ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
