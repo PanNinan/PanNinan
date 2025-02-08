@@ -17,5 +17,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanNinan&show_icons=true&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PanNinan&show_icons=true&theme=dark&count_private=true)
-![](https://stats.justsong.cn/api/bilibili/?id=308877198&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=PanNinan&theme=github)
